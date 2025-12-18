@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+textoooo hola
+=======
+Helo World!
+>>>>>>> a2b983f184b610749ba39135e373944898dc4cc6
